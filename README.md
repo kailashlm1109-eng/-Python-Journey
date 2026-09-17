@@ -1,2 +1,2 @@
 # KAILASH-L-M
-🌱My coding journey — learning, experimenting, building, and improving one program at a time. 🚀 🔄 Learn • Build • Repeat
+🌱My 🐍Python coding journey —🔄 Learn • Build • Repeat
